@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bonus
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Bonus\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ eatBomb()
+comment2.text=\r\n\ I\ am\ trying\ to\ remove\ the\ Bomb\ by\ using\ another\ class\ to\ make\ a\ game\ littel\ bit\ intresting.\r\n
+comment3.params=
+comment3.target=void\ eatBug()
+numComments=4

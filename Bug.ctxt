@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bug
+comment0.text=\r\n\ My\ main\ character\ is\ the\ spider\ which\ is\ called\ by\ name\ bug\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Bug\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ eatFood()
+comment2.text=\r\n\ To\ show\ something\ on\ the\ screen\ is\ I\ used\ that\ method\ when\ spider\ would\ touch\ food\ class\ it\ would\ remove\ automatically.\r\n
+comment3.params=
+comment3.target=void\ fireProject()
+comment3.text=\r\n\ This\ is\ for\ to\ control\ fire\ by\ the\ mouse.\r\n
+numComments=4
